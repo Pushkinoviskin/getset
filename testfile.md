@@ -9,7 +9,7 @@ Mohammad Hameed | mohammad.hameed@ucalgary.ca
 
 ## Project Idea
 
-![](http://sigite2012.sigite.org/wp-content/uploads/2011/09/BikingInCalgary.jpg)
+[](http://sigite2012.sigite.org/wp-content/uploads/2011/09/BikingInCalgary.jpg)
 
 A bike trail finding app for the Calgary area. The app will allow users to access and search a database of current biking trails in the Calgary area. Users can also add, delete, or edit their trails, as well as rate and comment on other people's trails. A trail in the database would consist of a map view of the trail, a description, the rating, difficulty level, length, pictures, and comments. The application will be designed to be used by anyone who likes or wants to try biking, from the casual to the experienced. The methods that users will use the app are when they are trying to find new trails to try out in and around the city, when they want to save and/or share their favorite trails, and it also gives them an avenue by which to put their recommendation out there to fellow enthusiasts. 
 
