@@ -3,9 +3,9 @@
 ## Members
 Name | Email
 --- | --- 
-Rhys Sosnowski | rhys.soz@gmail.com
-Aneley Demeke | aneley.demeke@ucalgary.ca
-Mohammad Hameed | mohammad.hameed@ucalgary.ca
+|Rhys Sosnowski | rhys.soz@gmail.com|
+|Aneley Demeke | aneley.demeke@ucalgary.ca|
+|Mohammad Hameed | mohammad.hameed@ucalgary.ca|
 
 ## Project Idea
 
