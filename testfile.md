@@ -7,7 +7,7 @@ Name | Email
 | Aneley Demeke | aneley.demeke@ucalgary.ca |
 | Mohammad Hameed | mohammad.hameed@ucalgary.ca |
 
-[hello](https://www.google.ca)
+![hello](https://www.google.ca)
 
 ## Project Idea
 
